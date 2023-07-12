@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/validate_form/static/css/main.605e1cb4.css",
-    "main.js": "/validate_form/static/js/main.c0a4a5c8.js",
-    "index.html": "/validate_form/index.html",
-    "main.605e1cb4.css.map": "/validate_form/static/css/main.605e1cb4.css.map",
-    "main.c0a4a5c8.js.map": "/validate_form/static/js/main.c0a4a5c8.js.map"
+    "main.css": "/Shopping_Cart/static/css/main.605e1cb4.css",
+    "main.js": "/Shopping_Cart/static/js/main.c0a4a5c8.js",
+    "index.html": "/Shopping_Cart/index.html",
+    "main.605e1cb4.css.map": "/Shopping_Cart/static/css/main.605e1cb4.css.map",
+    "main.c0a4a5c8.js.map": "/Shopping_Cart/static/js/main.c0a4a5c8.js.map"
   },
   "entrypoints": [
     "static/css/main.605e1cb4.css",
