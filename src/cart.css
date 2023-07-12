@@ -1,0 +1,39 @@
+#cart {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  #cart h2 {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  #cart p {
+    margin: 0;
+  }
+  
+  #cart-items {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #cart-items li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  #cart-items li button {
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #total-price {
+    font-weight: bold;
+  }
+  
